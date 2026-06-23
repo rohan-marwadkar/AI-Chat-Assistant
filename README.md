@@ -1,3 +1,3 @@
-# chat_app
+# AI-Chat-Assistant
 
 A new Flutter project.
